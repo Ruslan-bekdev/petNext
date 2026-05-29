@@ -1,11 +1,11 @@
 'use client'
 
-const Home = () => {
+const Settings = () => {
     return (
         <main className='text-[64px] text-center'>
-            <h2>Главная страница</h2>
+            <h2>Настройки</h2>
         </main>
     );
 };
 
-export default Home;
+export default Settings;

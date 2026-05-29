@@ -1,8 +1,11 @@
+'use client'
 
-export default function About() {
-  return (
-    <div>
-        <h1>About</h1>
-    </div>
-  );
-}
+const About = () => {
+    return (
+        <main className='text-[64px] text-center'>
+            <h2>Личный кабинет (About)</h2>
+        </main>
+    );
+};
+
+export default About;
